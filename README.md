@@ -1,6 +1,6 @@
 # HCI-VR-Project
-Virtual Reality-Based Interactive System for Enhanced Real Estate Exploration and Custom Interior Design
-Traditional real estate visualization methods like 2D drawings and
+Title: Virtual Reality-Based Interactive System for Enhanced Real Estate Exploration and Custom Interior Design
+Abstract: Traditional real estate visualization methods like 2D drawings and
 static images often fail to help clients fully understand space and
 design potential. Virtual Reality (VR) addresses this by offering
 immersive, interactive experiences where users can explore and
